@@ -1,0 +1,31 @@
+<Reporte>
+  <Inicio>2023-02-26 19:09:41.804304</Inicio>
+	<Robot>
+		<Estado>Encendido</Estado>
+	</Robot>
+	<Tiempo>2023-02-26 19:09:50.055234</Tiempo>
+	<Efector>
+		<Estado>Activado</Estado>
+	</Efector>
+	<Tiempo>2023-02-26 19:09:52.326444</Tiempo>
+	<Movimiento>
+		<X>15</X>
+		<Y>20</Y>
+		<Z>35</Z>
+		<Velocidad>40</Velocidad>
+	</Movimiento>
+	<Tiempo>2023-02-26 19:09:58.834065</Tiempo>
+	<Rotacion>
+		<Vinculo>1</Vinculo>
+		<Angulo>45</Angulo>
+		<Sentido>antihorario</Sentido>
+		<Velocidad>10</Velocidad>
+	</Rotacion>
+	<Tiempo>2023-02-26 19:10:06.894326</Tiempo>
+	<Robot>
+		<Estado>Apagado</Estado>
+	</Robot>
+	<Tiempo>2023-02-26 19:10:10.935462</Tiempo>
+  <Fin>2023-02-26 19:10:19.323367</Fin>
+  <Tiempo total>0 horas 00 minutos 37 segundos</Tiempo total>
+</Reporte>
